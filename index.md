@@ -10,7 +10,7 @@ The purpose of this site will be to showcase hands-on engineering projects desig
 
 <div style="text-align:center">
     <a href="https://ucsd-hkn-outreach.github.io/Website/projects/joystick-servo-gimbal">
-        <img src="./media/joystick-servo-gimbal.gif" alt="Joystick Servo Gimbal GIF">
+        <img src="./media/joystick-servo-gimbal.gif" alt="Joystick Servo Gimbal GIF" width="300" height="533">
     </a>
 </div>
 

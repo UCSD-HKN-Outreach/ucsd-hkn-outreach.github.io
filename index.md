@@ -23,6 +23,12 @@ In this project students will design a servo gimbal built out of two servos atta
 
 ### [Candy Dispenser](https://ucsd-hkn-outreach.github.io/Website/projects/candy-dispenser)
 
+<div style="text-align:center">
+    <a href="https://ucsd-hkn-outreach.github.io/Website/projects/candy-dispenser">
+        <img src="./media/candy-dispenser.gif" alt="Candy Dispenser GIF" width="300" height="533">
+    </a>
+</div>
+
 Students will design a motion activated candy dispenser using an ultrasonic sensor and an Arduino Nano.
 
 - [Lesson Slides](https://docs.google.com/presentation/d/1gMUBQHTuppBXgvps0FpxjrCzLTyeFV_O7UgtZworj2M/edit?usp=sharing)

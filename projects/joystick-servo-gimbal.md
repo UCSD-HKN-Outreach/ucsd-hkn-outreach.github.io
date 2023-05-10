@@ -1,4 +1,4 @@
-# Candy Dispenser
+# Simple Arduino Robotic Arm  
 
 ## Introduction
 
@@ -36,12 +36,13 @@ It's your job to fill out the blanks in the code (make sure to delete all the un
 
 <br>
 
-```
+```c
 #include <Servo.h>
 
+//TODO: FILL IN THE BLANKS
 int joyX = __; //pin for x-axis joystick
 int joyY = __; //pin for y-axis joystick
-int swPin = __;
+int swPin = __; 
 
 int xVal = 0;
 int yVal = 0;
@@ -55,8 +56,8 @@ void setup() {
 
   Serial.begin(9600);
  
-  servoX.attach(__);
-  servoY.attach(__);
+  servoX.attach(__); //TODO: FILL IN THE BLANK
+  servoY.attach(__); //TODO: FILL IN THE BLANK
 
   pinMode(joyX, INPUT);
   pinMode(joyY, INPUT);

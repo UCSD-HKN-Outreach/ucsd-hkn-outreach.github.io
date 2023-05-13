@@ -18,7 +18,7 @@ These are the instructions for assembling the electronic parts for the automatic
 
 ## Hardware setup
 
-![](../media/dispenser_wiring.png)
+![Electronics wiring diagram](../media/dispenser_wiring.png)
 
 Signal wires should be connected to the following pins
 
@@ -28,11 +28,8 @@ Signal wires should be connected to the following pins
 | Ultrasonc Sensor Echo | 3 |
 | Servo Signal | 5|
 
-
-
-
 ## Arduino Code
-```arduino
+```c
 #include <Servo.h>
 const int trigPin = 2; // Defines the pin for the ultrasonic sensor trigger
 const int echoPin = 3; // Defines the pin for the ultrasonic sensor echo
@@ -55,10 +52,10 @@ void loop() {
   delayMicroseconds(2);
   digitalWrite(trigPin, HIGH);
   delayMicroseconds(10);
-  digitalWrite(trigPin, LOW); // digitalWrite(__,__) students could fill this in
+  digitalWrite(____, ____); // TODO: fill in the blank here 
 
   // Reads the duration of the ultrasonic sensor echo pin
-  duration = pulseIn(echoPin, HIGH); // duration = pulseIN(__,__) students could fill this in
+  duration = pulseIN(____, ____); // TODO: fill in the blank here 
 
   // Calculates the distance based on the duration and the speed of sound
   distance = duration / 2 / 29.1;
@@ -81,5 +78,4 @@ void loop() {
 
   delay(50); // Waits for 1 second before measuring the distance again
 }
-
 ```

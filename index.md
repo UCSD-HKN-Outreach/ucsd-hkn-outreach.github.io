@@ -6,32 +6,5 @@ The purpose of this site will be to showcase hands-on engineering projects desig
 
 ## Projects
 
-### [Arduino Joystick and Servo Gimbal](https://ucsd-hkn-outreach.github.io/Website/projects/joystick-servo-gimbal)
-
-<div style="text-align:center">
-    <a href="https://ucsd-hkn-outreach.github.io/Website/projects/joystick-servo-gimbal">
-        <img src="./media/joystick-servo-gimbal.gif" alt="Joystick Servo Gimbal GIF" width="300" height="533">
-    </a>
-</div>
-
-In this project students will design a servo gimbal built out of two servos attached together, controlled by a two-axis joystick and using an Arduino.
-
-- [Lesson Slides](https://docs.google.com/presentation/d/1xa9ZR1YFZFCqHjDvDPaTW2a0bgnuqINdz9AKl5xNVlo/edit?usp=sharing)
-- [Arduino Code](https://docs.google.com/document/d/1TtQ4Z0I49ltHY8hGXvlrVdRJ5D9QkAirXSdvRepRYe0/edit?usp=sharing)
-
----
-
-### [Candy Dispenser](https://ucsd-hkn-outreach.github.io/Website/projects/candy-dispenser)
-
-<div style="text-align:center">
-    <a href="https://ucsd-hkn-outreach.github.io/Website/projects/candy-dispenser">
-        <img src="./media/candy-dispenser.gif" alt="Candy Dispenser GIF" width="300" height="533">
-    </a>
-</div>
-
-Students will design a motion activated candy dispenser using an ultrasonic sensor and an Arduino Nano.
-
-- [Lesson Slides](https://docs.google.com/presentation/d/1gMUBQHTuppBXgvps0FpxjrCzLTyeFV_O7UgtZworj2M/edit?usp=sharing)
-- [Arduino Code](https://docs.google.com/document/d/1jGrgNw226EMBM-GMMv10Wqkjf-g7eO3Q8fcVcpR_Sto/edit?usp=sharing)
-
----
+| [Arduino Joystick and Servo Gimbal](https://ucsd-hkn-outreach.github.io/Website/projects/joystick-servo-gimbal) <br> <a href="https://ucsd-hkn-outreach.github.io/Website/projects/joystick-servo-gimbal"> <img src="./media/joystick-servo-gimbal.gif" alt="Joystick Servo Gimbal GIF" width="300" height="533"> </a> <br> In this project students will design a servo gimbal built out of two servos attached together, controlled by a two-axis joystick and using an Arduino. | [Candy Dispenser](https://ucsd-hkn-outreach.github.io/Website/projects/candy-dispenser) <br> <a href="https://ucsd-hkn-outreach.github.io/Website/projects/candy-dispenser"> <img src="./media/candy-dispenser.gif" alt="Candy Dispenser GIF" width="300" height="533"> </a> <br> Students will design a motion activated candy dispenser using an ultrasonic sensor and an Arduino Nano. |
+|:-------------:|:-------------:|

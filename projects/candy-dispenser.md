@@ -10,15 +10,15 @@ These are the instructions for assembling the electronic parts for the automatic
 
 ## Parts
 * Arduino Nano
-* 2 Servo Motors
+* Servo Motor
 * Ultrasonic sensor
 * 4 Male to Female Wires
-* 6 Male to Male Wires
+* 3 Male to Male Wires
 * Breadboard
 
 ## Hardware setup
 
-![Electronics wiring diagram](../media/dispenser_wiring.png)
+![Electronics wiring diagram](../media/dispenser_diagram.png)
 
 Signal wires should be connected to the following pins
 

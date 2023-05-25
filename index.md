@@ -22,7 +22,7 @@ The purpose of this site will be to showcase hands-on engineering projects desig
             <td style="text-align:center; vertical-align:top; width:268px;">
                 <a href="https://ucsd-hkn-outreach.github.io/Website/projects/musical-keyboard">Musical Keyboard</a>
                 <br>
-                <a href="https://ucsd-hkn-outreach.github.io/Website/projects/musical-keyboard"> <img style="margin-top:68px; margin-bottom:68px;" src="./media/musical-keyboard-no-breadboard.png" alt="Musical Keyboard Diagram" width="200" height="220"> </a> <br> <p>Student will build and program a musical keyboard using an Arduino, a keypad, and a buzzer.</p>
+                <a href="https://ucsd-hkn-outreach.github.io/Website/projects/musical-keyboard"> <img src="./media/musical-keyboard.gif" alt="Musical Keyboard Diagram" width="200" height="356"> </a> <br> <p>Student will build and program a musical keyboard using an Arduino, a keypad, and a buzzer.</p>
             </td>
         </tr>
     </tbody>

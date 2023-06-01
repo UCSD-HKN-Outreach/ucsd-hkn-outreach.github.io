@@ -9,11 +9,11 @@ In this project, you will learn how to build a musical keyboard with a keypad, A
 </div>
 
 ## Materials
-- [ ] Arduino UNO
-- [ ] Keypad
-- [ ] Buzzer
-- [ ] Wires
-- [ ] Breadboard (optional)
+- Arduino UNO
+- Keypad
+- Buzzer
+- Wires
+- Breadboard (optional)
 
 ## Assembly 
 

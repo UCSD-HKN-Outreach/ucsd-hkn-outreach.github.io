@@ -9,11 +9,11 @@ In this project, you will learn how to build a simple robotic arm using two serv
 </div>
 
 ## Materials
-- [ ] Arduino UNO
-- [ ] 2 Servo motors
-- [ ] 1 Joystick
-- [ ] Breadboard
-- [ ] Wires
+- Arduino UNO
+- 2 Servo motors
+- 1 Joystick
+- Breadboard
+- Wires
 
 ## Assembly 
 

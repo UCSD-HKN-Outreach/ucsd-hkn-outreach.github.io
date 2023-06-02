@@ -5,7 +5,7 @@
 In this project, you will learn how to build a musical keyboard with a keypad, Arduino UNO, and buzzer.
 
 <div style="text-align:center">
-    <img src="../media/musical-keyboard-no-breadboard.png" width="600">
+    <img src="../media/musical-keyboard.gif" width="300">
 </div>
 
 ## Materials

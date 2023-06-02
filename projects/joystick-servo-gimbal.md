@@ -5,7 +5,7 @@
 In this project, you will learn how to build a simple robotic arm using two servo motors, a joystick, and an Arduino UNO.  
 
 <div style="text-align:center">
-    <img src="assets/joystick-servo-gimbal.gif" width = 200>
+    <img src="assets/joystick-servo-gimbal.gif" width="300">
 </div>
 
 ## Materials

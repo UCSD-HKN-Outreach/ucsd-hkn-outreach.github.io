@@ -5,7 +5,7 @@
 In this project, you will learn how to build a motion activated candy dispenser using an ultrasonic sensor and an Arduino Nano.
 
 <div style="text-align:center">
-    <img src="../media/candy-dispenser.gif" width="300">
+    <img src="../assets/candy-dispenser.gif" width="300">
 </div>
 
 ## Materials

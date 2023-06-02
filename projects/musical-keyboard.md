@@ -5,7 +5,7 @@
 In this project, you will learn how to build a musical keyboard with a keypad, Arduino UNO, and buzzer.
 
 <div style="text-align:center">
-    <img src="../media/musical-keyboard.gif" width="300">
+    <img src="../assets/musical-keyboard.gif" width="300">
 </div>
 
 ## Materials
@@ -20,13 +20,13 @@ In this project, you will learn how to build a musical keyboard with a keypad, A
 First, assemble your circuit according to one of the following diagrams. If you decide to use a breadboard, using the diagram below. In either case, you will want to connect the keypad the same way, with the 8 wires connected to digital pins 2 through 9 on the Arduino. The positive terminal of the buzzer should be connected to digital pin 11 on the Arduino, and the negative terminal should be connected to GND on the Arduino.
 
 <div style="text-align:center">
-    <img src="../media/musical-keyboard-with-breadboard.png" width="600">
+    <img src="../assets/musical-keyboard-with-breadboard.png" width="600">
 </div>
 
 If you decide not to use a breadboard, use the diagram below.
 
 <div style="text-align:center">
-    <img src="../media/musical-keyboard-no-breadboard.png" width="600">
+    <img src="../assets/musical-keyboard-no-breadboard.png" width="600">
 </div>
 
 ## Program

@@ -5,7 +5,7 @@
 In this project, you will learn how to build a simple robotic arm using two servo motors, a joystick, and an Arduino UNO.  
 
 <div style="text-align:center">
-    <img src="assets/joystick-servo-gimbal.gif" width="300">
+    <img src="../assets/joystick-servo-gimbal.gif" width="300">
 </div>
 
 ## Materials
@@ -20,8 +20,8 @@ In this project, you will learn how to build a simple robotic arm using two serv
 First, assemble your circuit in the following manner. You can use the circuit diagram and/or the netlist below. 
 
 <div style="text-align:center">
-    <img src="assets/servo-joystick-circuit-diagram.png">
-    <img src="assets/servo-joystick-netlist.png">
+    <img src="../assets/servo-joystick-circuit-diagram.png">
+    <img src="../assets/servo-joystick-netlist.png">
 </div>
 
 ## Program

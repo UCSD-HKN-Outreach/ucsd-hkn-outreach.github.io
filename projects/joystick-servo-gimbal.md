@@ -30,7 +30,7 @@ Here, is the code for the program that you need to use. Make sure to copy-paste 
 
 It's your job to fill out the blanks in the code (make sure to delete all the underscores before you run the program!). 
 
-<details><summary>Stuck? Click here for a hint</summary>
+<details><summary style="user-select: none; cursor: pointer;">Stuck? Click here for a hint</summary>
     The variables joyX, joyY, and swPin are variables that refer to the pin numbers that these components are connected to on the Arduino. A similar reasoning can be used for the last two blanks!
 </details>
 

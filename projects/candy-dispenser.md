@@ -1,14 +1,14 @@
 # Candy Dispenser
 
-## Electronics Instructions
+## Introduction
 
-[Lesson Slides](https://docs.google.com/presentation/d/1gMUBQHTuppBXgvps0FpxjrCzLTyeFV_O7UgtZworj2M/edit?usp=sharing)
+In this project, you will learn how to build a motion activated candy dispenser using an ultrasonic sensor and an Arduino Nano.
 
-[Arduino Code](https://docs.google.com/document/d/1jGrgNw226EMBM-GMMv10Wqkjf-g7eO3Q8fcVcpR_Sto/edit?usp=sharing)
+<div style="text-align:center">
+    <img src="../media/candy-dispenser.gif" width="300">
+</div>
 
-These are the instructions for assembling the electronic parts for the automatic candy dispenser. At completion, your setup will be able to automatically trigger a servo motor to move when an object (hand) is detected in front of the ultrasonic sensor.
-
-## Parts
+## Materials
 * Arduino Nano
 * Servo Motor
 * Ultrasonic sensor
@@ -16,11 +16,11 @@ These are the instructions for assembling the electronic parts for the automatic
 * 3 Male to Male Wires
 * Breadboard
 
-## Hardware setup
+## Assembly
 
 ![Electronics wiring diagram](../media/dispenser_diagram.png)
 
-Signal wires should be connected to the following pins
+Signal wires should be connected to the following pins:
 
 | Part Pin | Arduino Pin |
 | ---| --|
@@ -28,7 +28,12 @@ Signal wires should be connected to the following pins
 | Ultrasonc Sensor Echo | 3 |
 | Servo Signal | 5|
 
-## Arduino Code
+## Program
+
+Here is the Arduino code you will need to use. You can copy and paste it into your online Arduino Editor.
+
+It's your job to fill in the blanks in the code where instructed by the `// TODO: fill in the blank here` code comment on the same line (make sure to delete the underscores).
+
 ```c
 #include <Servo.h>
 const int trigPin = 2; // Defines the pin for the ultrasonic sensor trigger
@@ -79,3 +84,8 @@ void loop() {
   delay(50); // Waits for 1 second before measuring the distance again
 }
 ```
+
+## Resources
+
+- [Lesson Slides](https://docs.google.com/presentation/d/1gMUBQHTuppBXgvps0FpxjrCzLTyeFV_O7UgtZworj2M/edit?usp=sharing)
+- [Arduino Code](https://docs.google.com/document/d/1jGrgNw226EMBM-GMMv10Wqkjf-g7eO3Q8fcVcpR_Sto/edit?usp=sharing)

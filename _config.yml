@@ -1,1 +1,6 @@
-theme: minima
+remote_theme: jekyll/minima
+
+title: UCSD HKN Outreach
+
+header_pages:
+  - about.md

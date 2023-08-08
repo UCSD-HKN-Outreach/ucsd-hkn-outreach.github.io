@@ -6,7 +6,7 @@ The purpose of this site is to showcase hands-on engineering projects designed b
 
 [Read more about HKN Outreach](about-page.md). 
 
-## Projects
+## Projects 1
 
 <table>
     <tbody>

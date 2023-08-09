@@ -4,7 +4,7 @@ title: UCSD HKN Outreach
 
 ## [About](about)
 
-The purpose of this site is to showcase hands-on engineering projects designed by the Eta-Kappa-Nu (HKN) Outreach program to be taught at K-12 schools. The lessons below contain step-by-step instructions for completing each project, along with a list of required materials, and a bit about how each project works. 
+The purpose of this site is to showcase hands-on engineering projects designed by the IEEE Eta Kappa Nu (HKN) Outreach program to be taught at K-12 schools. The lessons below contain step-by-step instructions for completing each project, along with a list of required materials, and a bit about how each project works. 
 
 [Read more about HKN Outreach](about). 
 

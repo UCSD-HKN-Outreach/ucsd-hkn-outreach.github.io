@@ -1,5 +1,6 @@
-# Simple Arduino Robotic Arm  
-
+---
+title: Simple Arduino Robotic Arm  
+---
 ## Introduction
 
 In this project, you will learn how to build a simple robotic arm using two servo motors, a joystick, and an Arduino UNO.  

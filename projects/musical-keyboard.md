@@ -1,4 +1,6 @@
-# Musical Keyboard
+---
+title: Musical Keyboard
+---
 
 ## Introduction
 

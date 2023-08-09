@@ -1,4 +1,6 @@
-# Candy Dispenser
+---
+title: Candy Dispenser
+---
 
 ## Introduction
 
@@ -18,7 +20,7 @@ In this project, you will learn how to build a motion activated candy dispenser 
 
 ## Assembly
 
-![Electronics wiring diagram](../media/dispenser_diagram.png)
+![Electronics wiring diagram](../assets/dispenser_diagram.png)
 
 Signal wires should be connected to the following pins:
 

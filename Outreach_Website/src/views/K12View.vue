@@ -2,6 +2,6 @@
 import { defineComponent } from 'vue';
 
 export default defineComponent({
-    name: 'AboutView'
+    name: 'K12View'
 });
 </script>

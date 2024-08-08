@@ -1,9 +1,16 @@
+<script lang="ts">
+import { defineComponent } from 'vue';
+
+export default defineComponent({
+    name: 'HomeView'
+});
+</script>
+
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import AppHeader from '../components/AppHeader.vue';
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+<AppHeader />
+
 </template>

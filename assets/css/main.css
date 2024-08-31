@@ -169,7 +169,7 @@ input, select, textarea {
 	}
 
 	hr {
-		border-top: solid 1px #5FBFF90;
+		border-top: solid 1px #5FBFF9;
 		border: 0;
 		margin-bottom: 1.5em;
 	}
@@ -3010,8 +3010,18 @@ input, select, textarea {
 				text-align: center;
 			}
 
+			#footer .row {
+				display: flex;
+        		flex-direction: column;
+        		align-items: center;
+				width: 100%;
+			}
+
+			
+
 				#footer .container {
 					margin-bottom: 4em;
+					text-align: center;
 				}
 
 				#footer form .actions {
@@ -3351,7 +3361,7 @@ input, select, textarea {
 
 			#footer {
 				padding: 2em 20px;
-				text-align: left;
+				text-align: center;
 			}
 
 	}
